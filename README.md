@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Salvo-zizzi
-- 👀 I’m interested in Data science, Data analytics and Data manegement
-- 🌱 I’m currently learning statistics and data manegement
+- 👀 I’m interested in Data science, Data analytics and Data management
+- 🌱 I’m currently learning statistics and data management
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail:salvo.zizzi@gmail.com
 
