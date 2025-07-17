@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m **Salvatore Zizzi**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salvo%20Zizzi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salvatore-zizzi-242151107/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salvatore%20Zizzi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salvatore-zizzi-242151107/) 
 [![Gmail](https://img.shields.io/badge/Email-salvo.zizzi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salvo.zizzi@gmail.com)
 
 ---
