@@ -21,7 +21,7 @@ Currently mastering advanced **statistical methods** and exploring the power of 
 ---
 
 ### 🌱 Currently Learning  
-- Advanced **Statistics**, **Machine Learning** & **XAI**
+- Advanced **Deep Learning**, **XAI** and **GenAI**
 - Data Management best practices  
 - Cutting-edge ML algorithms  
 
