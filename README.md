@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me  
-Passionate **Statistics Graduate** diving deep into the worlds of **Data Science**, **Data Analytics**, and **Data Management**.  
+**Data scientist** diving deep into the worlds of **Data Science**, **Artificial Intelligence**, and **Machine Learning**.  
 Currently mastering advanced **statistical methods** and exploring the power of **machine learning**.
 
 ---
