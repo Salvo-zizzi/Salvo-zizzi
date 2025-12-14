@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me  
-**Data scientist** diving deep into the worlds of **Data Science**, **Artificial Intelligence**, and **Machine Learning**.  
+**Data scientist** diving deep into the worlds of **Artificial Intelligence**, and **Machine Learning**.  
 Currently mastering advanced **statistical methods** and exploring the power of **machine learning**.
 
 ---
